@@ -10,7 +10,7 @@ Mogu se uključiti oni koji žele samo nešto naučiti , napraviti vlastiti CNC,
 Budući da izrada iziskuje i velike materijalne troškove, projekat će biti podjeljen na tri kompatibilne kategorije pa će svako odabrati onu prema svojim financijskim mogučnostima.
 Poželjno je da osobe koje se budu priključile projektu da vladaju nekim od slijedečih vještina ili da posjeduju neku od opreme potrebne za izradu.
 1.1 Poznavanje nekog grafičkog programa za vektorsko crtanje , Corel , Ilustrator. 
-1.2 Služe se CAD aplikacijom Solidworks 15 ili nekom drugom CAD aplikacijom. 
+1.2 Služe se CAD aplikacijom Solidworks 15 ili nekom drugom CAD aplikacijom.
 1.3 Poznaju osnove GIT-a.
 2.1 Imaju osnovni alat za izradu 2.2 Posjeduju precizne mjerne instrumente
 
