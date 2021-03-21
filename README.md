@@ -9,10 +9,13 @@ U njemu mogu sudjelovati svi koji misle da mogu pridonjeti razvoju ovoga projekt
 Mogu se uključiti oni koji žele samo nešto naučiti , napraviti vlastiti CNC, i možda u budučnosti i zarađivati na svome uređaju. 
 Budući da izrada iziskuje i velike materijalne troškove, projekat će biti podjeljen na tri kompatibilne kategorije pa će svako odabrati onu prema svojim financijskim mogučnostima.
 Poželjno je da osobe koje se budu priključile projektu da vladaju nekim od slijedečih vještina ili da posjeduju neku od opreme potrebne za izradu.
+
 1.1 Poznavanje nekog grafičkog programa za vektorsko crtanje , Corel , Ilustrator. 
-1.2 Služe se CAD aplikacijom Solidworks 15 ili nekom drugom CAD aplikacijom.
+1.2 Služe se CAD aplikacijom Solidworks (2020 , +++ )  ili nekom drugom CAD aplikacijom.
 1.3 Poznaju osnove GIT-a.
-2.1 Imaju osnovni alat za izradu 2.2 Posjeduju precizne mjerne instrumente
+2.1 Imaju osnovni alat za izradu
+2.2 Posjeduju precizne mjerne instrumente
+3   Ne morate posjedovati ništa od navedenoga, samo uživajte. Dovoljna vam je kava i keksi ili nešto seksi.
 
 Rasprave vezane za ovaj projekat nalazit će se ovdje i na na facebook grupi https://www.facebook.com/groups/1259931284067935/ 
 Aktivno možete sudjelovati na dva načina . 
@@ -20,6 +23,5 @@ Aktivno možete sudjelovati na dva načina .
 1.Sudjelujte u raspravi na FB grupi o projektu
 2.Napravite kopiju projekta i dodajte i sami dijelove koji nedostaju 
 
-Projekat će biti završen do kraja 2017. i zavisi o vašem interesu za njega i o vašem vlastitom sudjelovanju.
 
 Vaš administrator
